@@ -9,7 +9,8 @@
 <A Href="Eport home page2.HTML"><Img src="Welcome.Png" </a>
 </th>
 <TH><a href="About Me2.HTML">
-<img src="About me.Png">
+<img src="![About Me](https://user-images.githubusercontent.com/58818110/70818628-2d4ab680-1da2-11ea-9491-71df9f6762a3.png)
+">
 </a>
 </th>
 <TH><A Href="Career Research2.HTML"><Img src="Career Research.Png" </a></th>
@@ -29,7 +30,8 @@
 I am inrolled in many diffrent programs in school. I also love and support the militray.
 <BR>
 <br>
-<IMG SRC="Gatewood wood.jpg">
+<IMG SRC="![Gatewood wood](https://user-images.githubusercontent.com/58818110/70818576-13a96f00-1da2-11ea-90df-528abf7a4eb9.jpg)
+">
 <br><br>
 <h3> "If everyone is thinking alike, then somebody isn't thinking."-- Georage S. Patton
 <Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br><Br>
